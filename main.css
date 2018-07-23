@@ -27,7 +27,7 @@ nav span {float: left;
             max-width: 75%;
             padding: 5px;}
 
-.right {    float: right;
+.right {    position: relative;
             text-align: right;
             border: 2px solid black;
             max-width: 75%;
